@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'web_tree_no_open',
-    'summary': 'Disable actions for click onto Tree- or ListView rows.',
+    'name': 'Web Tree No Open',
+    'summary': 'Disable actions for click onto Tree or ListView rows.',
     'version': '10.0.1.0.0',
     'author': 'Nebil Aydi',
     'license': 'AGPL-3',
