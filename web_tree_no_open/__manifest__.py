@@ -3,7 +3,7 @@
 {
     'name': 'Web Tree No Open',
     'summary': 'Disable actions for click onto Tree or ListView rows.',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'author': 'Nebil Aydi',
     'license': 'AGPL-3',
     'application': False,

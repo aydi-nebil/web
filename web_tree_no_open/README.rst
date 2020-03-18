@@ -6,9 +6,9 @@
 Web Tree No Open
 ================
 
-This module extends the functionality of tree views and adds a new attribute 
-to deactivate the onclick behaviour in them. The new configuration attribute 'open' 
+This module extends the functionality of tree views and adds a class
+to deactivate the onclick behaviour in them. The new class 'tree_no_open'
 is to be used in the same way as existing ones 'edit', 'create' and 'delete'.
 ::
 
-   <tree open="false" >
+   <tree class="tree_no_open" >
