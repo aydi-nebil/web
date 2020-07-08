@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="assets_backend" name="PDF Viewer assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <script src="/pdf_viewer/static/src/js/pdf_viewer.js" type="text/javascript" />
+                <link href="/pdf_viewer/static/src/less/pdf_viewer.less" rel="stylesheet" type="text/less" />
+            </xpath>
+        </template>
+    </data>
+</odoo>
