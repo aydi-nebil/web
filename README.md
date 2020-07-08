@@ -1,6 +1,6 @@
 
-Web addons for Odoo
-===================
+Web addons for Odoo 12
+======================
 
 This project aims to deal with modules related to the webclient of Odoo. You'll find modules that:
 
